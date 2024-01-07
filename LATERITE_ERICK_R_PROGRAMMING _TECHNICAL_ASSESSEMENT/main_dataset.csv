@@ -1,0 +1,162 @@
+province_id,province_name,district_id,district_name,sector_id,sector_name,cell_id,cell_name,village_id,village_name,list_available,list_source,ubudehe_contact,contact_role,contact_phone,num_households,gpslatitude,gpslongitude,gpsaltitude,gpsaccuracy,parent_key
+1,Kigali,11,Nyarugenge,1101,Gitega,110101,Akabahizi,11010102,Gihanga,1,3,ndakaza,2,788004184,5,-1.9430859,30.05912,0,200,uuid:7ae0a1ab-0f9f-4708-b787-5f9a9209ae23
+1,Kigali,11,Nyarugenge,1101,Gitega,110102,Akabeza,11010201,Akinyambo,1,3,runyambo,2,781693606,1,-1.954515,30.11849,0,104.1,uuid:b3197175-b394-4df5-9ce5-fea010a926da
+1,Kigali,11,Nyarugenge,1101,Gitega,110103,Gacyamo,11010301,Amahoro,0,,,,,,,,,,uuid:0ca37679-f21e-4789-a333-b61ce480d64f
+1,Kigali,11,Nyarugenge,1101,Gitega,110104,Kigarama,11010401,Ingenzi,0,,,,,,,,,,uuid:27214107-4b58-416e-93a8-09b1652bcf92
+1,Kigali,11,Nyarugenge,1101,Gitega,110105,Kinyange,11010501,Akabugenewe,1,2,kayira,1,792857765,6,-1.9456654,30.056942,0,24.281,uuid:02c753e3-c44d-4f1f-b80e-f1b1070da69f
+1,Kigali,11,Nyarugenge,1101,Gitega,110106,Kora,11010601,Isangano,1,2,kanyankore,1,725325030,5,-1.9244316,30.070087,0,21.148001,uuid:9bc8dd48-bbe6-48a2-a3ac-438c71f4ebba
+1,Kigali,11,Nyarugenge,1102,Kanyinya,110201,Nyamweru,11020101,Bwimo,1,3,ahorukomeye,1,759235067,5,-1.9454038,30.05813,0,42.5,uuid:d9a87569-ba45-4ef8-8bf2-be0b53ce5f4c
+1,Kigali,11,Nyarugenge,1102,Kanyinya,110202,Nzove,11020201,Bibungo,1,3,mwiseneza,1,782613958,5,-1.9481133,30.058069,0,20.093,uuid:02642807-2821-4f9b-8f2d-fb363d5581b0
+1,Kigali,11,Nyarugenge,1102,Kanyinya,110203,Taba,11020301,Kagaramira,1,3,rwiyereka,1,790359139,2,-1.9421597,30.058432,0,24.889,uuid:ce5f3d9d-89ca-4698-8335-b4badd7ae659
+1,Kigali,11,Nyarugenge,1103,Kigali,110301,Kigali,11030101,Akirwanda,1,3,ruhumuriza,1,750565218,1,-1.9462482,30.056963,0,24.754,uuid:8f1aec07-8a13-44f7-9a19-8b53502f6068
+1,Kigali,11,Nyarugenge,1103,Kigali,110302,Mwendo,11030201,Agakomeye,1,3,musangwa,3,785210824,5,-1.9482797,30.057379,0,20,uuid:405aea83-da2a-42ab-a185-d39c2222a733
+1,Kigali,11,Nyarugenge,1103,Kigali,110303,Nyabugogo,11030301,Gakoni,1,3,bushaija,3,722477434,1,-1.9474657,30.058254,1531.5,22.634001,uuid:35652455-38a2-47e0-b135-b096d948caad
+1,Kigali,11,Nyarugenge,1103,Kigali,110304,Ruriba,11030401,Misibya,1,3,kantarama,3,787079412,6,-1.9464459,30.057032,1520.2,18.132,uuid:75597bdc-1e73-40b0-a6f1-0b47c7fa80c5
+1,Kigali,11,Nyarugenge,1103,Kigali,110305,Rwesero,11030501,Akanyamirambo,1,3,bidandi,3,794649754,3,-1.9459001,30.058649,0,31.202999,uuid:630ab6c2-4eaf-432a-8c6f-c3d7dc792a06
+1,Kigali,11,Nyarugenge,1104,Kimisagara,110401,Kamuhoza,11040101,Buhoro,1,3,muteteri,3,743737309,5,-1.9408034,30.061735,0,21.177,uuid:40476722-0f4e-48f1-b705-b1fa09c3def4
+1,Kigali,11,Nyarugenge,1104,Kimisagara,110402,Katabaro,11040201,Akamahoro,1,3,kagame,3,781308967,3,-1.9436115,30.059483,0,200,uuid:350f1bab-4221-423a-8a7f-64630d28b130
+1,Kigali,11,Nyarugenge,1104,Kimisagara,110403,Kimisagara,11040301,Akabeza,1,3,mukabirinda,1,730398049,1,-1.9263386,30.070841,0,2034,uuid:0584cf72-00fa-4bdb-9f8a-c59530aba94a
+1,Kigali,11,Nyarugenge,1105,Mageragere,110501,Kankuba,11050101,Kamatamu,1,3,nyiringabo,1,783131604,2,-1.9479016,30.058037,0,100,uuid:f9695105-24d0-44ad-bdaf-1e2ccbc9024b
+1,Kigali,11,Nyarugenge,1105,Mageragere,110502,Kavumu,11050201,Ayabatanga,1,3,gakwandi,1,753838654,1,-1.9497663,30.058037,0,2000,uuid:2f9dda11-231b-4dfb-a92e-9bd07df1b553
+1,Kigali,11,Nyarugenge,1105,Mageragere,110503,Mataba,11050301,Burema,1,3,karigirwa,1,731283110,2,-1.9469275,30.055473,0,23.6,uuid:3ac4f18d-3248-43c2-bb5e-d8e5f0bdcb5c
+1,Kigali,11,Nyarugenge,1105,Mageragere,110504,Ntungamo,11050401,Akanakamageragere,0,,,,,,,,,,uuid:3f1be7ae-9a2b-4d42-9e9b-b279158581ef
+1,Kigali,11,Nyarugenge,1105,Mageragere,110505,Nyarufunzo,11050501,Akabungo,0,,,,,,,,,,uuid:eecbddb0-2abf-4d74-8195-aeedf8017805
+1,Kigali,11,Nyarugenge,1105,Mageragere,110506,Nyarurenzi,11050601,Amahoro,1,3,kanyamibwa,2,750754214,3,-1.9463782,30.057503,0,21.184999,uuid:3058476f-983e-43f1-b337-29f01b9269f7
+1,Kigali,11,Nyarugenge,1105,Mageragere,110507,Runzenze,11050701,Gisunzu,1,3,nsanzumuhire,2,753227098,1,-1.9540246,30.118666,1515.3,20.815001,uuid:0dbfd0b8-0246-45f5-a362-e229bf887c70
+1,Kigali,11,Nyarugenge,1106,Muhima,110601,Amahoro,11060101,Amahoro,1,3,ndengeyingoma,2,782108592,1,-1.9636357,30.060238,0,50,uuid:ab9a96a1-07d0-4c96-8878-978914d98a7b
+1,Kigali,11,Nyarugenge,1106,Muhima,110602,Kabasengerezi,11060201,Icyeza,1,3,mukarugema,2,747041778,3,-1.939164,30.0543,0,20.422001,uuid:96b3b6ba-aaed-4d10-97e6-357bdbfa1b21
+1,Kigali,11,Nyarugenge,1106,Muhima,110603,Kabeza,11060301,Hirwa,0,,,,,,,,,,uuid:1c935bdd-efa5-44db-96c0-4c3166db2f63
+1,Kigali,11,Nyarugenge,1106,Muhima,110604,Nyabugogo,11060401,Abeza,0,,,,,,,,,,uuid:d1881c02-1aec-4d87-9d96-bcb0e70f7ced
+1,Kigali,11,Nyarugenge,1106,Muhima,110605,Rugenge,11060501,Imihigo,0,,,,,,,,,,uuid:e861f2d2-e08e-4d0c-bc29-dbee35c7de01
+1,Kigali,11,Nyarugenge,1106,Muhima,110606,Tetero,11060601,Indamutsa,1,3,munyandamutsa,1,788772014,5,-1.9467447,30.057446,0,20.576,uuid:a0a3fd28-08cb-4cce-9588-8125270d7368
+1,Kigali,11,Nyarugenge,1106,Muhima,110607,Ubumwe,11060701,Bwahirimba,1,3,rwirahira,1,796478063,1,-1.9463286,30.058586,0,20.865,uuid:2a53a14a-1b57-4a98-a303-659663b30467
+1,Kigali,11,Nyarugenge,1107,Nyakabanda,110701,Munanira I,11070101,Kabusunzu,1,3,muhirwa,1,742925520,6,-1.9471284,30.056961,0,25.996,uuid:cba9b93e-7ae5-47c6-8fc4-5305a76dd5e1
+1,Kigali,11,Nyarugenge,1107,Nyakabanda,110702,Munanira II,11070201,Gasiza,1,3,uwicyeza,1,787382499,5,-1.9463294,30.057655,0,18.471001,uuid:023c7983-e9be-411d-a62e-fc54ff766358
+1,Kigali,11,Nyarugenge,1107,Nyakabanda,110703,Nyakabanda I,11070301,Akinkware,1,3,muvara,1,787141635,6,-1.9430717,30.059843,0,300,uuid:b3a9e7f6-6721-4120-a11b-f6aa4c2e6784
+1,Kigali,11,Nyarugenge,1107,Nyakabanda,110704,Nyakabanda II,11070401,Ibuhoro,1,3,uwantege,1,730099835,2,-1.9314239,30.073627,0,48.900002,uuid:d745cbe4-407c-4fcc-8946-42f1054b6764
+1,Kigali,11,Nyarugenge,1108,Nyamirambo,110801,Cyivugiza,11080101,Amizero,1,3,rugema,3,787255823,5,-1.9393603,30.054293,0,22.785999,uuid:28b19faf-5bf0-4865-b761-2ccec255b130
+1,Kigali,11,Nyarugenge,1108,Nyamirambo,110802,Gasharu,11080201,Kagunga,1,3,bagwaneza,3,794787511,4,-1.9233714,30.071814,0,72.900002,uuid:8f78c0a9-eae7-4175-bb4d-a4292d0eecf2
+1,Kigali,11,Nyarugenge,1108,Nyamirambo,110803,Mumena,11080301,Akanyana,1,3,kanyemera,3,756938730,1,-1.9408034,30.061735,0,21.177,uuid:8012c850-4939-4afd-90f9-120f14a1ca78
+1,Kigali,11,Nyarugenge,1108,Nyamirambo,110804,Rugarama,11080401,Gatare,1,3,kanjogera,3,733682056,2,-1.9468077,30.059483,0,2000,uuid:ba756835-edf9-4283-b129-b9e937966947
+1,Kigali,11,Nyarugenge,1109,Nyarugenge,110901,Agatare,11090101,Agatare,0,,,,,,,,,,uuid:bac6b282-2162-4e4c-97e6-01f0c4db0122
+1,Kigali,11,Nyarugenge,1109,Nyarugenge,110902,Biryogo,11090201,Biryogo,1,3,mashaza,2,739530382,5,-1.9432052,30.058666,1515,23.402,uuid:d8fa6bfe-47d5-4ff2-8ba2-2ec7f3384d05
+1,Kigali,11,Nyarugenge,1109,Nyarugenge,110903,Kiyovu,11090301,Amizero,1,3,muhoza,2,726325618,1,-1.9409803,30.061644,0,32.099998,uuid:a18d6880-01a7-4994-aa0d-d35ae67f8efe
+1,Kigali,11,Nyarugenge,1109,Nyarugenge,110904,Rwampara,11090401,Amahoro,1,3,mukiza,2,789184810,4,-1.9430859,30.05912,0,200,uuid:6f4f8ecb-d429-4a96-8495-2eb46ea5d0f7
+1,Kigali,11,Nyarugenge,1110,Rwezamenyo,111001,Kabuguru I,11100101,Muhoza,1,2,mutigomwa,2,721479831,1,-1.9468361,30.058037,0,100,uuid:76a0bcb7-5e86-4c5f-9a11-00747fc87f2d
+1,Kigali,11,Nyarugenge,1110,Rwezamenyo,111002,Kabuguru II,11100201,Buhoro,1,2,rutiganda,2,755437201,2,-1.9495386,30.129707,0,146.356,uuid:3490bf7d-db13-430d-9924-3cac1b617eb5
+1,Kigali,11,Nyarugenge,1110,Rwezamenyo,111003,Rwezamenyo I,11100301,Abatarushwa,1,2,ntaganira,2,794348894,2,-1.946577,30.057676,0,200,uuid:e7d06dec-e9d0-4edd-91bd-4b6514581d3b
+1,Kigali,11,Nyarugenge,1110,Rwezamenyo,111004,Rwezamenyo II,11100401,Amahoro,1,3,munezero,2,748480106,4,-1.946577,30.057676,0,200,uuid:d4fbc5f7-5614-4921-83ca-af9dc063e345
+1,Kigali,12,Gasabo,1201,Bumbogo,120101,Kinyaga,12010101,Akakaza,1,3,muyoboke,1,788850952,3,-1.9412656,30.043829,0,54.269001,uuid:9f668d17-623f-4fc9-b826-6993a5b73bd6
+1,Kigali,12,Gasabo,1201,Bumbogo,120102,Musave,12010201,Kagarama,1,3,kagambage,3,795722898,5,-1.9442906,30.057865,0,20,uuid:838077e5-2d68-4867-8ae8-e7713155a21c
+1,Kigali,12,Gasabo,1201,Bumbogo,120103,Mvuzo,12010301,Kigabiro,1,3,sayizonga,1,793748029,3,-1.9406796,30.04475,0,48.900002,uuid:37edfe97-1cb7-4098-b269-31d586286e72
+1,Kigali,12,Gasabo,1201,Bumbogo,120104,Ngara,12010401,Birembo,1,3,rurangwa,2,772443799,4,-1.9483697,30.058977,0,18.031,uuid:95e72162-fd38-4eb6-9f93-ec5c464645c4
+1,Kigali,12,Gasabo,1201,Bumbogo,120105,Nkuzuzu,12010501,Akabenejuru,0,,,,,,,,,,uuid:1629acbe-76c0-4c01-8ddc-7725a47f7e51
+1,Kigali,12,Gasabo,1201,Bumbogo,120106,Nyabikenke,12010601,Bushya,1,2,gashugi,3,755254810,4,-1.9636357,30.060238,0,50,uuid:072f7968-6385-4c41-87bd-b9bfff751169
+1,Kigali,12,Gasabo,1201,Bumbogo,120107,Nyagasozi,12010701,Akanyiramugarura,1,3,nkurunziza,1,762897535,6,-1.9850193,30.095865,0,20,uuid:2b9b7975-98df-484d-9ae4-a463df03d129
+1,Kigali,12,Gasabo,1202,Gatsata,120201,Karuruma,12020101,Akamamana,1,3,rudasingwa,2,743403856,5,-1.9421867,30.058256,0,23.139999,uuid:65756366-6996-46bf-ad58-b7405f25fd8b
+1,Kigali,12,Gasabo,1202,Gatsata,120202,Nyamabuye,12020201,Agakomeye,0,,,,,,,,,,uuid:4fcc74fe-fc87-4eed-97e1-83d828aca72b
+1,Kigali,12,Gasabo,1202,Gatsata,120203,Nyamugari,12020301,Agataramo,1,2,rwagasore,2,763166326,1,-1.9477974,30.058147,0,48.101002,uuid:8adb92db-3448-4471-9279-1234e9838ad2
+1,Kigali,12,Gasabo,1203,Gikomero,120301,Gasagara,12030101,Bwimiyange,1,2,karamaga,1,782310735,4,-1.9807081,30.104782,0,36.900002,uuid:7f879ff3-6067-4637-8914-ccfc8f6cd143
+1,Kigali,12,Gasabo,1203,Gikomero,120302,Gicaca,12030201,Ntaganzwa,1,2,gahongayire,3,720874033,3,-1.9480118,30.058043,0,24.167999,uuid:e59729aa-280b-466f-8edd-addefdad7a34
+1,Kigali,12,Gasabo,1203,Gikomero,120303,Kibara,12030301,Gahinga,1,3,gashumba,1,777467390,2,-1.9498158,30.058376,0,23.621,uuid:6a0e44d4-b804-4a82-b466-de79c45038e4
+1,Kigali,12,Gasabo,1203,Gikomero,120304,Munini,12030401,Munini,1,3,kabatesi,1,791742552,3,-1.9451762,30.05957,0,46.089001,uuid:24b7e4a8-7db9-4bcd-b2ad-a9bc19dd80f1
+1,Kigali,12,Gasabo,1203,Gikomero,120305,Murambi,12030501,Kimisebeya,1,3,nsengiyumva,1,780048720,6,-1.9393668,30.102652,0,65.501999,uuid:c11143e1-352d-46d6-b158-50760b52d4c0
+1,Kigali,12,Gasabo,1204,Gisozi,120401,Musezero,12040101,Amajyambere,1,3,kagimbura,1,729999515,5,-1.9242039,30.070637,0,20.996,uuid:edc3b9bc-d97d-4334-bc50-d150f1e3039b
+1,Kigali,12,Gasabo,1204,Gisozi,120402,Ruhango,12040201,Kanyinya,1,3,sakindi,1,728873086,5,,,,,uuid:06440a38-b209-4c2e-8629-6e5a8a151f8c
+1,Kigali,12,Gasabo,1205,Jabana,120501,Akamatamu,12050101,Akamatamu,1,3,ngwije,1,738335617,6,-1.9436115,30.059483,0,200,uuid:0123ae9a-3d88-4653-a308-6df67eb3a5be
+1,Kigali,12,Gasabo,1205,Jabana,120502,Bweramvura,12050201,Agakenke,1,3,rwabugande,1,730528827,5,-1.954367,30.118244,0,22.483999,uuid:1a21f7aa-db6a-4985-a6f5-b6e4dda0e9ed
+1,Kigali,12,Gasabo,1205,Jabana,120503,Kabuye,12050301,Amakawa,1,3,kalisa,3,794565007,5,-1.9685792,30.103531,0,1799.999,uuid:9620f131-bfe1-4979-972e-d306eec76e08
+1,Kigali,12,Gasabo,1205,Jabana,120504,Kidashya,12050401,Agasekabuye,0,,,,,,,,,,uuid:745c4f15-d500-4252-91f1-faa6e15165cf
+1,Kigali,12,Gasabo,1205,Jabana,120505,Ngiryi,12050501,Agahama,1,3,gatete,2,731968155,5,-1.946577,30.057676,0,200,uuid:8bb6f676-df7f-4cc9-a2c7-ba8e6c3ee762
+1,Kigali,12,Gasabo,1206,Jali,120601,Agateko,12060101,Bugarama,1,3,kampeta,2,777868611,6,-1.9495386,30.129707,0,146.356,uuid:0e0f551d-6d41-488d-a31e-a2649023a9ae
+1,Kigali,12,Gasabo,1206,Jali,120602,Buhiza,12060201,Kabande,1,3,buregeya,2,771231460,3,-1.9412656,30.043829,0,54.269001,uuid:5998aaa9-2384-4770-96c4-8384753c5954
+1,Kigali,12,Gasabo,1206,Jali,120603,Muko,12060301,Gahinga,1,3,rwabuneza,2,776258223,4,-1.9469275,30.055473,0,23.6,uuid:2457287c-fbc6-440f-a874-043052880313
+1,Kigali,12,Gasabo,1206,Jali,120604,Nkusi,12060401,Agatwa,1,3,muforomo,2,774534032,6,-1.9409049,30.06168,0,21.207001,uuid:e151a67d-2f80-4406-9092-49a6073376ac
+1,Kigali,12,Gasabo,1206,Jali,120605,Nyabuliba,12060501,Nyaburira,1,3,nsanzabandi,1,795212633,1,-1.945133,30.058218,0,21.77,uuid:f88c4a88-d6e0-48b8-a51b-81fa88731202
+1,Kigali,12,Gasabo,1206,Jali,120606,Nyakabungo,12060601,Bwocya,1,3,muhire,1,738823365,3,-1.9406796,30.04475,0,48.900002,uuid:862b1877-ff0a-4355-badf-3498b6c4e800
+1,Kigali,12,Gasabo,1206,Jali,120607,Nyamitanga,12060701,Agasharu,1,3,rusanganwa,1,763619839,5,-1.9456654,30.056942,0,24.281,uuid:26aed4cd-19d3-4dd6-b4c1-9e525f4d8098
+1,Kigali,12,Gasabo,1207,Kacyiru,120701,Kamatamu,12070101,Amajyambere,1,3,munyentwari,1,731588916,2,-1.9244316,30.070087,0,21.148001,uuid:4ee9efdd-1247-4857-89b7-58523331367f
+1,Kigali,12,Gasabo,1207,Kacyiru,120702,Kamutwa,12070201,Agasaro,1,3,ngabonziza,1,725609053,1,-1.9472578,30.059238,0,82.5,uuid:14d3e1e1-051a-4c2a-a4bd-a8274c2f449c
+1,Kigali,12,Gasabo,1207,Kacyiru,120703,Kibaza,12070301,Amahoro,1,2,kabasinga,1,795702517,3,-1.9470488,30.057478,0,29.184999,uuid:97c3ba14-184d-44d7-9aa1-92d828c2d74d
+1,Kigali,12,Gasabo,1208,Kimihurura,120801,Kamukina,12080101,Inyamibwa,1,2,mutware,1,797194965,4,-1.9473289,30.059698,0,77.599998,uuid:c0a16447-e72b-473f-be49-4a227f2814e1
+1,Kigali,12,Gasabo,1208,Kimihurura,120802,Kimihurura,12080201,Amahoro,1,3,karangwa,1,774467909,6,-1.9477974,30.058147,0,48.101002,uuid:28a8b5c3-ddc6-45f7-aea6-924652a33aa3
+1,Kigali,12,Gasabo,1208,Kimihurura,120803,Rugando,12080301,Gasange,1,3,mutumwinka,1,775865157,1,-1.9482797,30.057379,0,20,uuid:9978d020-d0af-4e27-8404-7a353dc8610b
+1,Kigali,12,Gasabo,1209,Kimironko,120901,Bibare,12090101,Abatuje,1,3,gatera,1,791417019,4,-1.9438558,30.05908,0,63.028,uuid:0499e331-27bf-4ec5-8c19-3fdd1acd958b
+1,Kigali,12,Gasabo,1209,Kimironko,120902,Kibagabaga,12090201,Akintwari,1,3,ndekezi,1,734224604,1,-1.9393603,30.054293,0,22.785999,uuid:77f2ce2d-0e0c-468f-b207-e1009c45387f
+1,Kigali,12,Gasabo,1209,Kimironko,120903,Nyagatovu,12090301,Ibukinanyana,1,3,kajangwe,3,782390072,2,-1.9280221,30.06921,0,56.099998,uuid:3bd95c02-3258-44ec-8d4f-2ef4aac710bd
+1,Kigali,12,Gasabo,1210,Kinyinya,121001,Gacuriro,12100101,Agatare,1,3,musonera,3,726171616,6,-1.9478803,30.05912,0,2000,uuid:fcec5537-8d4d-4949-9052-2f32b90cf4a9
+1,Kigali,12,Gasabo,1210,Kinyinya,121002,Gasharu,12100201,Agatare,1,3,musonera,3,726171616,6,-1.9763594,30.16741,0,300,uuid:7225d273-a1b6-489c-8ca6-933119c28027
+1,Kigali,12,Gasabo,1210,Kinyinya,121003,Kagugu,12100301,Dusenyi,1,3,musanabera,3,741923478,6,-1.9412442,30.061075,0,22.160999,uuid:c4f0ee6c-f920-4cf5-a718-f40497491685
+1,Kigali,12,Gasabo,1210,Kinyinya,121004,Murama,12100401,Binunga,1,3,mwizerwa,3,769899447,1,-1.9338036,30.061979,0,48.900002,uuid:dc95faad-d777-4c61-8a83-9008cded853f
+1,Kigali,12,Gasabo,1211,Ndera,121101,Bwiza,12110101,Akarwasa,1,3,kayonga,3,797575587,4,-1.9263386,30.070841,0,2034,uuid:842e8a2d-814c-488d-bfb2-37601dc83adf
+1,Kigali,12,Gasabo,1211,Ndera,121102,Cyaruzinge,12110201,Ayabakora,1,3,gakara,3,735249879,4,-1.9430859,30.05912,0,200,uuid:a5cf4cb4-53dc-4a39-8d07-acd947ad4c74
+1,Kigali,12,Gasabo,1211,Ndera,121103,Kibenga,12110301,Bahoze,1,3,mwitende,3,788179966,2,-1.9497663,30.058037,0,2000,uuid:5e8202c2-8889-4a5c-9b74-00969e627352
+1,Kigali,12,Gasabo,1211,Ndera,121104,Masoro,12110401,Byimana,1,3,ruhumuriza,2,787609758,5,-1.9463866,30.057058,1520.6,22.077999,uuid:1e287e31-1718-46fc-9262-c81827a75dac
+1,Kigali,12,Gasabo,1211,Ndera,121105,Mukuyu,12110501,Akamusare,0,,,,,,,,,,uuid:440cd9e3-8487-4649-8013-ff2a3c75ffbc
+1,Kigali,12,Gasabo,1211,Ndera,121106,Rudashya,12110601,Kacyinyaga,0,,,,,,,,,,uuid:eb08168d-2f94-4c3c-9cef-7eb14e4d5d5b
+1,Kigali,12,Gasabo,1212,Nduba,121201,Butare,12120101,Kanani,1,3,kabanda,1,780204133,1,-1.9540246,30.118666,1515.3,20.815001,uuid:cddb1e3f-4cce-4368-abc1-94798372b19e
+1,Kigali,12,Gasabo,1212,Nduba,121202,Gasanze,12120201,Gatagara,1,3,kangabe,1,781293287,6,-1.9482112,30.068989,0,98.269997,uuid:e7722cd3-1af0-4bdb-91bc-402a80b80ca5
+1,Kigali,12,Gasabo,1212,Nduba,121203,Gasura,12120301,Agacyamo,1,3,kajuga,1,749468554,5,-1.939164,30.0543,0,20.422001,uuid:aa2bba5d-c125-446b-b0d5-5ba7ea70ceb2
+1,Kigali,12,Gasabo,1212,Nduba,121204,Gatunga,12120401,Agasharu,1,3,mugabekazi,1,724374723,4,-1.9403185,30.047289,0,20.952999,uuid:c423055c-2800-4c9d-8841-403ce2adb105
+1,Kigali,12,Gasabo,1212,Nduba,121205,Muremure,12120501,Gatobotobo,1,2,ndahigwa,1,744887966,6,-1.9237094,30.071028,0,22.177999,uuid:a4ad51bd-d683-4285-b561-8c9cf47b5f1c
+1,Kigali,12,Gasabo,1212,Nduba,121206,Sha,12120601,Bikumba,1,2,bayingana,1,728956110,1,-1.9542,30.118553,0,27.478001,uuid:743ccb50-9530-4a40-aac7-522ae491f3ca
+1,Kigali,12,Gasabo,1212,Nduba,121207,Shango,12120701,Akazi,1,3,rwasubutare,1,748232702,3,-1.9462482,30.056963,0,24.754,uuid:07c98d83-995d-4ae9-b089-6da14db5b25a
+1,Kigali,12,Gasabo,1213,Remera,121301,Nyabisindu,12130101,Amarembo I,1,3,nyinawumuntu,3,777968751,2,-1.9479043,30.058096,0,19.709999,uuid:f558d06e-5e3d-48a5-8a1f-c6f7d515a23f
+1,Kigali,12,Gasabo,1213,Remera,121302,Nyarutarama,12130201,Gishushu,1,3,gasekuru,3,770555306,5,-1.9482797,30.057379,0,20,uuid:fe3d4ee9-ba7c-4857-9f4b-7ee547247e1d
+1,Kigali,12,Gasabo,1213,Remera,121303,Rukiri I,12130301,Agashyitsi,1,3,buhinja,3,782321753,4,-1.9474657,30.058254,1531.5,22.634001,uuid:0f5f01d7-07ff-4d64-a2d0-6ac47aac3568
+1,Kigali,12,Gasabo,1213,Remera,121304,Rukiri II,12130401,Amahoro,1,3,gahigana,3,757897287,1,-1.9480118,30.058043,0,24.167999,uuid:18f188a8-e5a8-496c-b802-d0ae1fc99b35
+1,Kigali,12,Gasabo,1214,Rusororo,121401,Bisenga,12140101,Bisenga,1,3,muhizi,3,773113763,4,-1.9464459,30.057032,1520.2,18.132,uuid:2a9ca8a5-7abe-43aa-8f33-327bfc34fe59
+1,Kigali,12,Gasabo,1214,Rusororo,121402,Gasagara,12140201,Agatare,1,3,kayisinga,3,753911489,4,-1.9438558,30.05908,0,63.028,uuid:36663b49-6bc3-490a-a9eb-4305360fac36
+1,Kigali,12,Gasabo,1214,Rusororo,121403,Kabuga I,12140301,Abatangampundu,1,3,mutsinzi,3,752403178,4,-1.943342,30.059505,0,55.257999,uuid:5ba86360-5da3-4633-8faf-0b30ad24b4c7
+1,Kigali,12,Gasabo,1214,Rusororo,121404,Kabuga II,12140401,Bwiza,1,3,gasengayire,2,779409317,1,-1.925341,30.070305,0,64.099998,uuid:8d8efb6d-7892-4f7b-b236-726731af0ce3
+1,Kigali,12,Gasabo,1214,Rusororo,121405,Kinyana,12140501,Busenyi,1,3,rwigema,2,730590904,2,,,,,uuid:9d86210f-2dc1-42b7-a7c8-ef98c1903b22
+1,Kigali,12,Gasabo,1214,Rusororo,121406,Mbandazi,12140601,Cyeru,1,3,bunyenyezi,2,721060203,2,-1.9449574,30.05876,0,200,uuid:b98a43d3-2229-419c-842f-6f2a98a28685
+1,Kigali,12,Gasabo,1214,Rusororo,121407,Nyagahinga,12140701,Gisharara,1,3,kayitare,2,760774900,6,-1.9449574,30.05876,0,100,uuid:c456b43b-d618-4735-a190-00acb44a5944
+1,Kigali,12,Gasabo,1214,Rusororo,121408,Ruhanga,12140801,Kinyaga,1,3,mutamuriza,2,746120655,4,-1.9627513,30.121052,0,82.5,uuid:dec95fc3-af26-4106-9f45-ce0e7c966f75
+1,Kigali,12,Gasabo,1215,Rutunga,121501,Gasabo,12150101,Gasharu,1,3,rwanamiza,2,799405000,3,-1.9508957,30.060425,0,77.599998,uuid:fb025c75-5e01-4cac-9cd0-696138055aa6
+1,Kigali,12,Gasabo,1215,Rutunga,121502,Indatemwa,12150201,Kabarera,1,3,kaberuka,2,769257573,2,-1.9409803,30.061644,0,32.099998,uuid:bd55a6e2-fb0a-472c-9c60-1b3896e95753
+1,Kigali,12,Gasabo,1215,Rutunga,121503,Kabaliza,12150301,Kabaliza,1,3,kagoyire,2,736916621,4,-1.9344797,30.151131,0,23.677,uuid:f82a1a15-ffa1-4505-b071-0612cc619212
+1,Kigali,12,Gasabo,1215,Rutunga,121504,Kacyatwa,12150401,Cyili,1,3,batutsi,2,743605211,4,-1.9589649,30.110199,1506.6,24.233,uuid:7abc50b6-56be-48bf-bb45-901e7fdc386c
+1,Kigali,12,Gasabo,1215,Rutunga,121505,Kibenga,12150501,Abanyangeyo,1,3,kayirebwa,2,733146824,4,-1.9413955,30.044418,0,164.28799,uuid:76e1610f-5a3a-43dd-8851-f36da6b4c34e
+1,Kigali,12,Gasabo,1215,Rutunga,121506,Kigabiro,12150601,Kamusare,1,3,gahutu,2,799037050,1,-1.9495212,30.056955,0,2000,uuid:7d356ac5-cfb2-4a5f-8b37-5176e9944bc1
+1,Kigali,13,Kicukiro,1301,Gahanga,130101,Gahanga,13010101,Gahanga,1,3,karemera,2,759577803,1,-1.946577,30.057676,0,200,uuid:eda7df88-4a48-42f1-b45d-8c3027f52f57
+1,Kigali,13,Kicukiro,1301,Gahanga,130102,Kagasa,13010201,Kabeza,1,3,bwanakweri,2,733076756,3,-1.9495386,30.129707,0,146.356,uuid:227465e1-62b5-4821-8333-dde9f88d74d7
+1,Kigali,13,Kicukiro,1301,Gahanga,130103,Karembure,13010301,Amahoro,1,3,karire,1,753174868,6,-1.9409049,30.06168,0,21.207001,uuid:43ed6b1f-6074-4d69-bd66-d15713c848ba
+1,Kigali,13,Kicukiro,1301,Gahanga,130104,Murinja,13010401,Kampuro,0,,,,,,,,,,uuid:ad0731c4-3458-4cd1-a8de-7c40aef18235
+1,Kigali,13,Kicukiro,1301,Gahanga,130105,Nunga,13010501,Kigarama,1,3,mpfizi,3,784694791,1,-1.9456654,30.056942,0,24.281,uuid:ca8e7e5c-ee26-45cb-9cc3-4fc9df43781f
+1,Kigali,13,Kicukiro,1301,Gahanga,130106,Rwabutenge,13010601,Gahosha,1,2,muneza,3,797371796,2,-1.9417317,30.061432,0,25.468,uuid:69909b36-3b0a-412e-bdc6-6e6abbcece0a
+1,Kigali,13,Kicukiro,1302,Gatenga,130201,Gatenga,13020101,Amahoro,1,2,rugema,3,752989118,3,-1.939164,30.0543,0,20.422001,uuid:b0d842ad-0e2d-4313-a71e-1587c56d4bc2
+1,Kigali,13,Kicukiro,1302,Gatenga,130202,Karambo,13020201,Gwiza,1,3,mwumvaneza,3,773251555,4,-1.9572797,30.105759,0,26.4,uuid:f1e441b6-a8b2-4469-b0d6-fb2b0a93ef33
+1,Kigali,13,Kicukiro,1302,Gatenga,130203,Nyanza,13020301,Bwiza,0,,,,,,,,,,uuid:a1aa203d-325e-477f-a5b5-f6ad6a59aba6
+1,Kigali,13,Kicukiro,1302,Gatenga,130204,Nyarurama,13020401,Bigo,0,,,,,,,,,,uuid:695aea17-fe96-423f-ac84-4d346829720f
+1,Kigali,13,Kicukiro,1303,Gikondo,130301,Kagunga,13030101,Gatare,1,3,ngoboka,2,795575629,1,-1.9471284,30.056961,0,25.996,uuid:9ab5f4cb-9620-4ff6-8ccb-7cb2c4078b00
+1,Kigali,13,Kicukiro,1303,Gikondo,130302,Kanserege,13030201,Kanserege I,1,3,kampororo,2,732820932,3,-1.9463294,30.057655,0,18.471001,uuid:fd3c998e-9c34-4ff5-8f03-d345d361b5d7
+1,Kigali,13,Kicukiro,1303,Gikondo,130303,Kinunga,13030301,Kigugu I,1,3,rusimbuka,2,795568581,3,-1.9663858,30.111135,0,428.319,uuid:d7df414f-a291-4fc8-8f71-b3c986a8cfdb
+1,Kigali,13,Kicukiro,1304,Kagarama,130401,Kanserege,13040101,Bwiza,1,3,ndori,2,787339071,3,-1.9474657,30.058254,1531.5,22.634001,uuid:2cedebdd-5686-47ff-876b-5a187e171b70
+1,Kigali,13,Kicukiro,1304,Kagarama,130402,Muyange,13040201,Kamuna,1,3,uwamwezi,2,778152805,5,-1.9498158,30.058376,0,23.621,uuid:39975c88-36dd-4f60-a628-b002b2411948
+1,Kigali,13,Kicukiro,1304,Kagarama,130403,Rukatsa,13040301,Inshuti,1,3,mihigo,2,723303751,2,-1.9425584,30.060339,0,33.292,uuid:d90a73b6-d9b6-4712-a1f8-df03c637127f
+1,Kigali,13,Kicukiro,1305,Kanombe,130501,Busanza,13050101,Amahoro,1,3,mukandori,2,770581059,4,-1.9418627,30.0585,0,26.726999,uuid:098a61bc-0509-4c58-8af8-d900f639e66c
+1,Kigali,13,Kicukiro,1305,Kanombe,130502,Kabeza,13050201,Akagera,1,3,sebudandi,2,727273820,2,,,,,uuid:e7301eff-927b-468c-9dbd-56e57d3d14ab
+1,Kigali,13,Kicukiro,1305,Kanombe,130503,Karama,13050301,Bitare,1,3,ngabonzima,2,792721897,2,-1.9763594,30.16741,0,300,uuid:3adf5d58-30e5-4ffb-9502-d52f62edb81f
+1,Kigali,13,Kicukiro,1305,Kanombe,130504,Rubirizi,13050401,Beninka,0,,,,,,,,,,uuid:7846acf4-3fdd-407a-a32a-df064b07eff0
+1,Kigali,13,Kicukiro,1306,Kicukiro,130601,Gasharu,13060101,Amajyambere,1,3,kalisa,1,750466294,3,-1.9520739,30.073929,0,227.647,uuid:049d0dda-ec83-4979-8266-d69818235a7a
+1,Kigali,13,Kicukiro,1306,Kicukiro,130602,Kagina,13060201,Gashiha,1,3,rugagi,1,783005704,5,-1.9407032,30.058399,0,500,uuid:85832d4f-5a65-4507-9b45-e52c106a1d98
+1,Kigali,13,Kicukiro,1306,Kicukiro,130603,Kicukiro,13060301,Gasave,1,3,munyangabe,1,776039831,3,-1.9468361,30.058037,0,100,uuid:ea6aded0-f137-4534-9eee-41ee763a6862
+1,Kigali,13,Kicukiro,1306,Kicukiro,130604,Ngoma,13060401,Ahitegeye,1,3,kagara,1,720152100,2,-1.9460371,30.058037,0,100,uuid:a7753703-11aa-4180-831f-b9b2bfda5f3b
+1,Kigali,13,Kicukiro,1307,Kigarama,130701,Bwerankori,13070101,Gakokobe,1,3,gahima,1,759604327,3,-1.9472239,30.057432,0,23.781,uuid:c8ea956c-82b5-4452-80d6-7d22c69aff7a
+1,Kigali,13,Kicukiro,1307,Kigarama,130702,Karugira,13070201,Ibuga,1,3,muhongayire,1,758679438,1,-1.9442906,30.057865,0,20,uuid:86cc39e9-86ef-4705-9897-61d6160e7120
+1,Kigali,13,Kicukiro,1307,Kigarama,130703,Kigarama,13070301,Akimana,1,3,gakwerere,1,759871704,4,-1.945133,30.058218,0,21.77,uuid:125d0b46-601b-45ea-8c15-ee7c3214d0a3
+1,Kigali,13,Kicukiro,1307,Kigarama,130704,Nyarurama,13070401,Kamabuye,1,3,kanyandekwe,1,773910948,3,-1.9493108,30.058065,0,22.183001,uuid:75f48b4d-9901-4fef-87fc-ded4a8b3527b
+1,Kigali,13,Kicukiro,1307,Kigarama,130705,Rwampara,13070501,Amajyambere,1,3,karinganire,3,726717801,5,-1.9473944,30.059299,0,47.244999,uuid:f64623e1-8685-48ba-a7ff-19b48dc5be83
+1,Kigali,13,Kicukiro,1308,Masaka,130801,Ayabaraya,13080101,Kababyeyi,1,3,mutambarungu,3,728876846,2,-1.9572797,30.105759,0,26.4,uuid:943ed781-bb88-47f5-a4ef-d3c0d1b1e2f2
+1,Kigali,13,Kicukiro,1308,Masaka,130802,Cyimo,13080201,Biryogo,1,3,ndanga,3,778361201,5,-1.9237094,30.071028,0,22.177999,uuid:a050c60e-1e2e-415a-bacb-8b41f5a139ea
+1,Kigali,13,Kicukiro,1308,Masaka,130803,Gako,13080301,Bamporeze,1,3,kimenyi,3,738233934,1,-1.9421597,30.058432,0,24.889,uuid:fb0b1469-e891-48cb-a51e-9c41e10c127d
+1,Kigali,13,Kicukiro,1308,Masaka,130804,Gitaraga,13080401,Gitaraga,1,3,ingabire,3,739785522,6,-1.9442283,30.058632,0,23.705,uuid:dd0c4e9f-cadf-4b61-a95c-4ffa2e913b50
+1,Kigali,13,Kicukiro,1308,Masaka,130805,Mbabe,13080501,Kabeza,1,3,mutabaruka,3,779873955,3,-1.9505802,30.057539,0,20.136999,uuid:96e32f3b-6e9c-42a8-856a-015de263152b
+1,Kigali,13,Kicukiro,1308,Masaka,130806,Rusheshe,13080601,Cyankongi,1,3,kalimba,3,746308741,1,-1.9347243,30.044811,0,22.5,uuid:5cc0125a-f5b4-42f4-8a2e-de0e2c5b3a31
+1,Kigali,13,Kicukiro,1309,Niboye,130901,Gatare,13090101,Byimana,1,3,rukundo,2,789689282,2,-1.9474657,30.058254,1531.5,22.634001,uuid:6a4d6369-9747-4127-95f4-07d3ca751eea
+1,Kigali,13,Kicukiro,1309,Niboye,130902,Niboye,13090201,Buhoro,1,3,bisangwa,2,746940318,2,-1.9451818,30.059429,0,46.416,uuid:0c24af46-c543-47ef-bd2b-d3469ddf4691
+1,Kigali,13,Kicukiro,1309,Niboye,130903,Nyakabanda,13090301,Amahoro,1,3,munyana,2,733786951,1,-1.9242039,30.070637,0,20.996,uuid:6b25430c-c737-4a00-9ba6-d54399bb273d
+1,Kigali,13,Kicukiro,1310,Nyarugunga,131001,Kamashashi,13100101,Akindege,1,3,kayumba,2,796138593,6,-1.9763594,30.16741,0,300,uuid:353dca26-e696-46c9-b859-75b6864f51b5
+1,Kigali,13,Kicukiro,1310,Nyarugunga,131002,Nonko,13100201,Gasaraba,1,3,buregeya,2,774589291,3,-1.9525332,30.103165,0,64.099998,uuid:a68769c7-a729-43c8-8197-293522ef221e
+1,Kigali,13,Kicukiro,1310,Nyarugunga,131003,Rwimbogo,13100301,Gabiro,1,3,nyiranyamibwa,2,730576906,2,-1.9228142,30.074648,0,600,uuid:659cb877-d395-40a3-8408-49b06be2a99f
